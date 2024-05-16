@@ -53,6 +53,7 @@ Credits to the following:
 - [Starter Code for the Task Management Board](https://github.com/coding-boot-camp/musical-happiness)
 - [Stack Overflow](https://stackoverflow.com/?newreg=f63e9ea2d90e48e6b29cd0118dd59f99)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Day.js](https://day.js.org/en/)
 - [Bootstrap](https://getbootstrap.com/)
     - [Modal](https://getbootstrap.com/docs/5.3/components/modal/#how-it-works)
 - [jQuery](https://jqueryui.com/)
