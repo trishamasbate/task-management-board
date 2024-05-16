@@ -2,7 +2,7 @@
 
 ## ✏️ Description
 
-Our task board solution is designed with project team members who are seeking efficient project management. This program easily organizes multiple tasks, tracks progress, and ensures every project stays on target. Say goodbye to scattered to-do lists and hello to streamlined productivity.
+This task board solution is designed with project team members who are seeking efficient project management. This program easily organizes multiple tasks, tracks progress, and ensures every project stays on target. Say goodbye to scattered to-do lists and hello to streamlined productivity.
 
 Task Board Management Criteria:
 
@@ -22,22 +22,20 @@ Click on the "Add Task" button to open a form asking inputs for:
 2. Task Due Date
 3. Task Description
 
-🎉 This task board also allows user to drag and drop their task cards to respective lanes: To Do, In Progress, Done!
+🎉 This task board also allows users to drag and drop their task cards to respective lanes: To Do, In Progress, and Done!
 
 To run the Task Management Board, you can do either of the following:
 
 * Use the link:
   
-  [Task Management Board]()
+  [Task Management Board](https://trishamasbate.github.io/task-management-board/)
 
 * Clone the repository:
 ```
-git clone 
+git clone git@github.com:trishamasbate/task-management-board.git
 ```
 
-
-
-Below is a preview showing the functionality of the Task Management Board:
+👇🏻 Below is a preview showing the functionality of the Task Management Board:
 
 [Task Management Board Workaround](https://youtu.be/mJjYyUOIPGw?si=dbNAT-2gk3OOLsTf)
 
